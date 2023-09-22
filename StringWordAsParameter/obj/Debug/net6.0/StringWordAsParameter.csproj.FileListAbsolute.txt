@@ -1,0 +1,14 @@
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/bin/Debug/net6.0/StringWordAsParameter
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/bin/Debug/net6.0/StringWordAsParameter.deps.json
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/bin/Debug/net6.0/StringWordAsParameter.runtimeconfig.json
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/bin/Debug/net6.0/StringWordAsParameter.dll
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/bin/Debug/net6.0/StringWordAsParameter.pdb
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/StringWordAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/StringWordAsParameter.AssemblyInfoInputs.cache
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/StringWordAsParameter.AssemblyInfo.cs
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/StringWordAsParameter.csproj.CoreCompileInputs.cache
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/StringWordAsParameter.dll
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/refint/StringWordAsParameter.dll
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/StringWordAsParameter.pdb
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/StringWordAsParameter.genruntimeconfig.cache
+/Users/fateh/Projects/StringWordAsParameter/StringWordAsParameter/obj/Debug/net6.0/ref/StringWordAsParameter.dll
